@@ -4,6 +4,7 @@ Datasets and Code for HandWriting Recognition
 ## Datasets
 ### Math
 - Online
+
 MathWriting: https://storage.googleapis.com/mathwriting_data/mathwriting-2024.tgz
 
 CROHME2023: https://zenodo.org/records/8428035/files/CROHME23.zip?download=1

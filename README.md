@@ -14,3 +14,12 @@ IAM-OnDB: [https://fki.tic.heia-fr.ch/databases/iam-on-line-handwriting-database
 - Offline
 HME100K: https://ai.100tal.com/dataset
 
+### Text
+- Online
+
+OLHWDB(chinese): https://nlpr.ia.ac.cn/databases/handwriting/Download.html
+
+
+- Offline
+
+HWDB(chinese): https://nlpr.ia.ac.cn/databases/handwriting/Download.html

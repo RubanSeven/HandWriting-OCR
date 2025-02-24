@@ -21,9 +21,9 @@ HME100K: https://ai.100tal.com/dataset
 
 OLHWDB(chinese): https://nlpr.ia.ac.cn/databases/handwriting/Download.html
 
-IAM-OnDB(english): [https://fki.tic.heia-fr.ch/databases/iam-on-line-handwriting-database](https://opendatalab.org.cn/OpenDataLab/IAM_Handwriting)
-
 
 - Offline
 
 HWDB(chinese): https://nlpr.ia.ac.cn/databases/handwriting/Download.html
+
+IAM-Handwriting(english): https://opendatalab.org.cn/OpenDataLab/IAM_Handwriting
